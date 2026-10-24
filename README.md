@@ -1,4 +1,4 @@
-# Eaglemart
+# Duckmart
 ## Group Members
 
 Elijah Goglin - Paragraph on website data
@@ -14,11 +14,11 @@ Transfer to Readme file
 
 
 ## Business Name
-	Eaglemart Grocery Store
+	Duckmart Grocery Store
 
 ## Business and Website Idea
 
-Eaglemart provides daily essentials including perishables, packaged foods, beverages, and non-food items. Eaglemart’s website will be available for anyone looking to fulfill their daily convenience needs. Each user should be able to create an account, browse food and beverage options, discover deals, shop online, and order online. The website must store certain categories of data in the database. Each user must have a profile, which includes their first and last name, and an email address. Since there could be online orders, each user should have an address. When shopping online, each user should have a shopping cart with a session. Each order should be identifiable along with each item within the order. A time slot for each delivery should be stored as well.  
+Duckmart provides daily essentials including perishables, packaged foods, beverages, and non-food items. Eaglemart’s website will be available for anyone looking to fulfill their daily convenience needs. Each user should be able to create an account, browse food and beverage options, discover deals, shop online, and order online. The website must store certain categories of data in the database. Each user must have a profile, which includes their first and last name, and an email address. Since there could be online orders, each user should have an address. When shopping online, each user should have a shopping cart with a session. Each order should be identifiable along with each item within the order. A time slot for each delivery should be stored as well.  
 
 
 ## Proposed Pages
