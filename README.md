@@ -64,3 +64,20 @@ Time slot
 Order number/id
 User who ordered
 
+
+
+## Project Documentation
+
+- [Website Page Designs](page_designs.md)
+
+- [Database Table Designs](db_tables.md)
+
+
+## Color Palette
+
+#0b4c44 - Dark Turquoise
+#64a668 - Green
+#a2dc90 - Light Green
+#f1df6b - Yellow
+#ffffff - White
+
