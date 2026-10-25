@@ -13,7 +13,7 @@ Stores customer and administrator accounts
 
 | username | unique name for each user |
 
-| password_hash | Integrity for each password |
+| password_hash | Securely hashed version of the user's password |
 
 | first_name | First name of a user |
 
@@ -36,13 +36,15 @@ Stores all of the products offered in DuckMart.
 
 | image | link to image of product |
 
-| category | Group such as "bakery", "deli", etc. |
+| category_id | Unique Identifier for group such as "bakery", "deli", etc. |
 
 | price | selling price |
 
 | stock | Number of items in stock |
 
 | on_sale | Yes or No value. If yes, product will be displayed at a discount and shown in the 'Deals' section of website |
+
+| sale_price | Price of discounted item |
 
 ## Categories
 
@@ -71,8 +73,6 @@ Tracks the products and quantities in each cart.
 
 | cart_id | Unique Identifier for the cart |
 
-| cart_item_id | Unique Identifier for item in the cart |
-
 | product_id | Unique Identifier for each product |
 
 | quantity | Number of each item in cart |
@@ -87,7 +87,7 @@ Stores customer orders and their delivery information.
 
 | order_date | Tracks the date the the order was made |
 
-| delivery_slot_id | Unique Identifier for the delivery priority |
+| delivery_slot_id | Unique Identifier for the delivery time slot |
 
 | status | The status of the order(delivered, shipped, failed delivery, etc.)
 
@@ -103,12 +103,12 @@ Stores the induvidual products in each order.
 
 | quantity | Number if items in each order |
 
-| unit_price | Price of one individual product in the order |
+| unit_price | Price per unit when the order was placed |
 
 ## Delivery_Slots
 Stores available delivery times.
 
-| delivery_slot_id | Unique Identifier for the delivery priority |
+| delivery_slot_id | UUnique Identifier for the delivery time slot |
 
 | delivery_date | Estimated date the products will be delivered |
 
