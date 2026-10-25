@@ -1,6 +1,6 @@
 # Database Table Designs
 
-## Table Name (EXAMPLE TEMPLATE)
+## Table Name (EXAMPLE TEMPLATE, DELETE THIS BEFORE SUBMITTING)
 
 Table Description
  
