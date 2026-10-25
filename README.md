@@ -9,8 +9,6 @@ Alizabeth Hayden - Data Planning
 
 David Larbi - Transfer to Readme file(Headings, Bulleted lists, Bold text, Paragraphs)
 
-Left to do: 
-Transfer to Readme file 
 
 
 ## Business Name
