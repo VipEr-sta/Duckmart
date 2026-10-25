@@ -75,9 +75,9 @@ User who ordered
 
 ## Color Palette
 
-#0b4c44 - Dark Turquoise
-#64a668 - Green
-#a2dc90 - Light Green
-#f1df6b - Yellow
-#ffffff - White
+Primary - #0b4c44 - Dark Turquoise
+Secondary - #64a668 - Green
+Accent - #a2dc90 - Light Green
+Image - #f1df6b - Yellow
+Background - #ffffff - White
 
