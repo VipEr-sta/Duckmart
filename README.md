@@ -20,10 +20,10 @@ David Larbi - Transfer to Readme file(Headings, Bulleted lists, Bold text, Parag
 - Product Search - Elijah
 - All Admin Pages - Lizzy
 - Login, Profile, Store Location, Contact us Pages- Lizzy
-
-#### Left to Do: 
 - Reserve Food Page Design - David
 - Order History Page Design - Joseph
+  
+#### Left to Do: 
 
 ## Business Name
 	Duckmart Grocery Store
