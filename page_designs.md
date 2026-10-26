@@ -52,3 +52,9 @@ Displays data to contact the store, such as email and phone number.
 Allows customers to browse DuckMart's available grocery items by category and search for specific products. Each product displays an image, name, price, and a button to view more details.
 
 ![Product Search Page](PageDesigns/Product_Search.png)
+
+## Order History Page
+Allows customers to review previous grocery orders, check order statuses, view details, and reorder items.
+
+## Reserve Food Page
+Allows customers to browse grocery products, search for items, select quantities, and add products to their order. It includes product cards displaying images, names, and prices, along with an Order Summary and Checkout option.
