@@ -14,10 +14,10 @@ David Larbi - Transfer to Readme file(Headings, Bulleted lists, Bold text, Parag
 - Create Repository & Add Members - Elijah
 - Organize Repository - Lizzy & Elijah
 - Home Page - Elijah
-- Product Details - Elijah
-- Product Search - Elijah
 - Color Palette - Lizzy
 - Create Logo - Lizzy
+- Product Details - Elijah
+- Product Search - Elijah
 - All Admin Pages - Lizzy
 - Login, Profile, Store Location, Contact us Pages- Lizzy
 
