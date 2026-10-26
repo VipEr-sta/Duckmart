@@ -29,6 +29,23 @@ Introduces customers to DuckMart Grocery and highlights featured products, deals
 
 ![Home Page](PageDesigns/Home_Page.png)
 
+## Login Page
+Contains input forms for the username and password to login.
+![Login Page](PageDesigns/Login_Page.png)
+
+
+## Profile Page
+Displays User data that can be changed, such as Name, Username, and address.
+![Profile Page](PageDesigns/Profile_Page.png)
+
+## Store Location
+Displays a picture of a map with a location icon for the store address.
+![Store Location](PageDesigns/Store_Location.png)
+
+
+## Contact Us
+Displays data to contact the store, such as email and phone number.
+![Contact Us](PageDesigns/Contact_Us.png)
 
 ## Product Search Page
 
