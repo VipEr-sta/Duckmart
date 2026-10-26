@@ -57,4 +57,4 @@ Allows customers to browse DuckMart's available grocery items by category and se
 Allows customers to review previous grocery orders, check order statuses, view details, and reorder items.
 
 ## Reserve Food Page
-Allows customers to browse grocery products, search for items, select quantities, and add products to their order. It includes product cards displaying images, names, and prices, along with an Order Summary and Checkout option.
+This page lets customers browse grocery products and select the items they want to order or reserve before visiting the store or arranging pickup.
