@@ -10,20 +10,20 @@ Alizabeth Hayden - Data Planning
 David Larbi - Transfer to Readme file(Headings, Bulleted lists, Bold text, Paragraphs)
 
 ## To Do List
-Done:
-Create Repository & Add Members - Elijah
-Organize Repository - Lizzy & Elijah
-Home Page - Elijah
-Product Details - Elijah
-Product Search - Elijah
-Color Palette - Lizzy
-Create Logo - Lizzy
-All Admin Pages - Lizzy
-Login, Profile, Store Location, Contact us Pages- Lizzy
+#### Done:
+- Create Repository & Add Members - Elijah
+- Organize Repository - Lizzy & Elijah
+- Home Page - Elijah
+- Product Details - Elijah
+- Product Search - Elijah
+- Color Palette - Lizzy
+- Create Logo - Lizzy
+- All Admin Pages - Lizzy
+- Login, Profile, Store Location, Contact us Pages- Lizzy
 
-Left to Do: 
-Reserve Food Page Design - David
-Order History Page Design - Joseph
+#### Left to Do: 
+- Reserve Food Page Design - David
+- Order History Page Design - Joseph
 
 ## Business Name
 	Duckmart Grocery Store
