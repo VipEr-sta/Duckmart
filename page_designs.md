@@ -56,7 +56,7 @@ Allows customers to browse DuckMart's available grocery items by category and se
 ## Order History Page
 Allows customers to review previous grocery orders, check order statuses, view details, and reorder items.
 
-![Order History](PageDesigns/order_history.png)
+![Order History Page](PageDesigns/Order_History.png)
 
 ## Reserve Food Page
 This page lets customers browse grocery products and select the items they want to order or reserve before visiting the store or arranging pickup.
