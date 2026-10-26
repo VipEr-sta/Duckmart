@@ -60,3 +60,6 @@ Allows customers to review previous grocery orders, check order statuses, view d
 
 ## Reserve Food Page
 This page lets customers browse grocery products and select the items they want to order or reserve before visiting the store or arranging pickup.
+
+![Reserve Food Page](PageDesigns/Reserve_Food.png)  
+
